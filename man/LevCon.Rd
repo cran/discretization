@@ -25,7 +25,7 @@ Pawlak, Z. (1982). Rough Sets, \emph{International Journal of Computer and Infor
 Chmielewski, M. R. and Grzymala-Busse, J. W. (1996). Global Discretization of Continuous Attributes as Preprocessing for Machine Learning, \emph{International journal of approximate reasoning}, \bold{Vol. 15, No. 4}, 319--331.
 }
 \author{
-Kim, H. J. \email{polaris7867@gmail.com}
+HyunJi Kim \email{polaris7867@gmail.com}
 }
 \seealso{
 \code{\link{modChi2}}

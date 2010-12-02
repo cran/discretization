@@ -17,7 +17,7 @@ min # observations in col or row to merge
 }
 }
 \author{
-Kim, H. J. \email{polaris7867@gmail.com}
+HyunJi Kim \email{polaris7867@gmail.com}
 }
 \seealso{
  \code{\link{cutPoints}}, 

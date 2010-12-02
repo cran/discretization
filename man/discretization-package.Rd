@@ -12,7 +12,7 @@ This package is a collection of supervised discretization algorithms. It can als
 \tabular{ll}{
 Package: \tab discretization\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
+Version: \tab 1.0-1\cr
 Date: \tab 2010-12-02\cr
 License: GPL
 LazyLoad: \tab yes\cr
@@ -20,9 +20,13 @@ LazyLoad: \tab yes\cr
 
 }
 \author{
-Maintainer: Kim, H. J. <polaris7867@gmail.comt>
+Maintainer: HyunJi Kim  <polaris7867@gmail.com>
 }
 \references{
+
+Choi, B. S., Kim, H. J., Cha, W. O. (2011). A Comparative Study on Discretization Algorithms for Data Mining, Communications of the Korean
+Statistical Society, to be published.
+
 Chmielewski, M. R. and Grzymala-Busse, J. W. (1996). Global Discretization of Continuous Attributes as Preprocessing for Machine Learning, \emph{International journal of approximate reasoning}, \bold{Vol. 15, No. 4}, 319--331.
 
 Fayyad, U. M. and Irani, K. B.(1993). Multi-interval discretization of continuous-valued attributes for classification learning, \emph{Artificial intelligence}, \bold{13}, 1022--1027.

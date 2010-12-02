@@ -28,7 +28,7 @@ In the modified Chi2 algorithm, inconsistency checking(\eqn{InConCheck(data) < \
 Tay, F. E. H. and Shen, L. (2002). Modified Chi2 Algorithm for Discretization, \emph{IEEE  Transactions on knowledge and data engineering}, \bold{14}, 666--670.
 }
 \author{
-Kim, H. J. \email{polaris7867@gmail.com}
+HyunJi Kim \email{polaris7867@gmail.com}
 }
 \seealso{
 \code{\link{LevCon}}

@@ -33,7 +33,7 @@ for \deqn{y = \chi^2/log(n)}
 Tsai, C. J., Lee, C. I. and Yang, W. P. (2008). A discretization algorithm based on Class-Attribute Contingency Coefficient, \emph{Information Sciences}, \bold{178}, 714--731.
 }
 \author{
-Kim, H. J. \email{polaris7867@gmail.com}
+HyunJi Kim  \email{polaris7867@gmail.com}
 }
 \seealso{
 \code{\link{disc.Topdown}},

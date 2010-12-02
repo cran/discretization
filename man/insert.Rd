@@ -19,7 +19,7 @@ a vector of minimum, maximum value
 }
 
 \author{
-Kim, H. J. \email{polaris7867@gmail.com}
+HyunJi Kim \email{polaris7867@gmail.com}
 }
 \seealso{
 \code{\link{topdown}}, \code{\link{findBest}} and 

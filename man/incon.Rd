@@ -28,7 +28,7 @@ Liu, H. and Setiono, R. (1995), Chi2: Feature selection and discretization of nu
 Liu, H. and Setiono, R. (1997), Feature selection and discretization, \emph{IEEE  transactions on knowledge and data engineering}, \bold{Vol.9, no.4}, 642--645.
 }
 \author{
-Kim, H.J. \email{polaris7867@gmail.com}
+HyunJi Kim \email{polaris7867@gmail.com}
 }
 \seealso{
   \code{\link{chi2}}

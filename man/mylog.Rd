@@ -19,7 +19,7 @@ a vector of numeric value
 Fayyad, U. M. and Irani, K. B.(1993). Multi-interval discretization of continuous-valued attributes for classification learning, \emph{Artificial intelligence}, \bold{Vol. 13}, 1022--1027.
 }
 \author{
-Kim, H. J. \email{polaris7867@gmail.com}
+HyunJi Kim \email{polaris7867@gmail.com}
 }
 \seealso{
 \code{\link{mergeCols}},

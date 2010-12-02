@@ -29,7 +29,7 @@ It uses as the stopping criterion.
 Su, C. T. and Hsu, J. H. (2005). An Extended Chi2 Algorithm for Discretization of  Real Value Attributes, \emph{IEEE transactions on knowledge and data engineering}, \bold{17}, 437--441.
 }
 \author{
-Kim, H. J. \email{polaris7867@gmail.com}
+HyunJi Kim \email{polaris7867@gmail.com}
 }
 \seealso{
 \code{\link{chiM}}, 

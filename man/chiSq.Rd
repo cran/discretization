@@ -34,7 +34,7 @@ If either \eqn{R_i} or \eqn{C_j} is 0, \eqn{E_{ij}} is set to 0.1. The degree of
 Kerber, R. (1992). ChiMerge : Discretization of numeric attributes, \emph{In Proceedings of the Tenth National Conference on Artificial Intelligence}, 123--128.
 }
 \author{
-who \email{address}
+HyunJi Kim \email{polaris7867@gmail.com}
 }
 \seealso{
   \code{\link{cacc}},

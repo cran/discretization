@@ -30,7 +30,7 @@ each \code{method} number indicates three top-down discretization.
 }
 }
 \author{
-Kim, H. J. \email{polaris7867@gmail.com}
+HyunJi Kim \email{polaris7867@gmail.com}
 }
 \seealso{
 \code{\link{topdown}}, \code{\link{insert}} and

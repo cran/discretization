@@ -28,7 +28,7 @@ significance level; \eqn{\alpha}
 Kerber, R. (1992). ChiMerge : Discretization of numeric attributes, \emph{ In Proceedings of the Tenth National Conference on Artificial Intelligence}, 123--128.
 }
 \author{
-Kim, H.J. \email{polaris7867@gmail.com}
+HyunJi Kim \email{polaris7867@gmail.com}
 }
 \seealso{
 \code{\link{chiM}}.

@@ -36,7 +36,7 @@ Chao-Ton, S. and Jyh-Hwa, H. (2005). An Extended Chi2 Algorithm for Discretizati
 Ziarko, W. (1993). Variable Precision Rough Set Model, \emph{Journal of computer and system sciences}, \bold{Vol. 46, No. 1}, 39--59.
 }
 \author{
-Kim, H.J. \email{polaris7867@gmail.com}
+HyunJi Kim \email{polaris7867@gmail.com}
 }
 \seealso{
 \code{\link{extendChi2}}

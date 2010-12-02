@@ -25,7 +25,7 @@ for \eqn{r=1,2, ... , n},  \eqn{max_r} is the maximum value within the \eqn{r}th
 Kurgan, L. A. and Cios, K. J. (2004). CAIM Discretization Algorithm, \emph{IEEE Transactions on knowledge and data engineering}, \bold{16}, 145--153.
 }
 \author{
-Kim, H. J. \email{polaris7867@gmail.com}
+HyunJi Kim \email{polaris7867@gmail.com}
 }
 \seealso{
 \code{\link{disc.Topdown}},
