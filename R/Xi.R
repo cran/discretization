@@ -34,7 +34,7 @@ function(data){
              CED <- numeric()
              for(j in 1:dim(freq)[2]){
                   Ctable <- freq[freq[,j]!=0,]
-                  if(class(Ctable)=="integer"){Ctable=as.matrix(Ctable,ncol=Class)}
+                  if(inherits(Ctable,"integer")){Ctable=as.matrix(Ctable,ncol=Class)}
                   Csum <- sum(Ctable)
                   rSum <- apply(Ctable,1,sum)
                   rMax <- apply(Ctable,1,max)

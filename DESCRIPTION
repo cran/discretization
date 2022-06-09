@@ -1,15 +1,16 @@
 Package: discretization
 Type: Package
-Title: Data preprocessing, discretization for classification.
-Version: 1.0-1
+Title: Data Preprocessing, Discretization for Classification
+Version: 1.0-1.1
 Date: 2010-12-02
 Author: HyunJi Kim
 Maintainer: HyunJi Kim <polaris7867@gmail.com>
-Description: This package is a collection of supervised discretization
+Description: A collection of supervised discretization
         algorithms. It can also be grouped in terms of top-down or
         bottom-up, implementing the discretization algorithms.
 License: GPL
 LazyLoad: yes
-Packaged: 2012-10-29 08:58:35 UTC; ripley
+Packaged: 2022-06-09 08:48:04 UTC; hornik
 Repository: CRAN
-Date/Publication: 2012-10-29 08:58:35
+Date/Publication: 2022-06-09 09:13:40 UTC
+NeedsCompilation: no
